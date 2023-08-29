@@ -1,4 +1,4 @@
-En el proyecto se ha cargado cuatro registros en el h2, el proyecto se desarrollo con la herramienta jacoco.
+En el proyecto se ha cargado cuatro registros en el h2, el proyecto se desarrollo con la herramienta lombok.
 1.- Paso 1:
 POST: http://localhost:8080/signup
 Se crea el usuario
