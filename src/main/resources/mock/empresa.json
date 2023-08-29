@@ -1,0 +1,30 @@
+[
+  {
+    "idEmpresa":1,
+    "ruc":"44455",
+    "razonSocial":"PLL",
+    "direccion":"av.",
+    "estado":"LP"
+  },
+  {
+    "idEmpresa":2,
+    "ruc":"45353",
+    "razonSocial":"PLL",
+    "direccion":"av.",
+    "estado":"LP"
+  },
+  {
+    "idEmpresa":3,
+    "ruc":"647464",
+    "razonSocial":"PLL",
+    "direccion":"av.",
+    "estado":"LP"
+  },
+  {
+    "idEmpresa": 4,
+    "ruc":"64644646",
+    "razonSocial":"PLL",
+    "direccion":"av.",
+    "estado":"LP"
+  }
+]
